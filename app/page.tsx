@@ -1,5 +1,12 @@
+import Ontainer from './component/Ontainer';
+
 const Page = () => {
-	return <>Mi Page next.js</>;
+	return (
+		<>
+			<Ontainer />
+			<br />
+		</>
+	);
 };
 
 export default Page;
