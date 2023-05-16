@@ -14,7 +14,8 @@ const Practica1 = () => {
 					textAlign="center"
 					mt={3}
 					py={2}
-					boxShadow={4}
+					boxShadow={6}
+		
 				>
 					Titulo 2
 				</Typography>
