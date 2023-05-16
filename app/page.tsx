@@ -1,9 +1,9 @@
-import Ontainer from './component/Ontainer';
+import Practica1 from './component/Practica1';
 
 const Page = () => {
 	return (
 		<>
-			<Ontainer />
+			<Practica1 />
 			<br />
 		</>
 	);
